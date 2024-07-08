@@ -38,5 +38,22 @@ nav a {
     color: seashell;
     text-decoration: underline;
     
-    
+}
+
+/* HERO */
+.mission {
+    height: 700px;
+    width: 1200px;
+    margin: 0 auto;
+    background-image: url("public/images/img-mission-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.mission-text {
+    background-color: black;
+    width: 1200px;
+    top: 25%;
+    position: absolute;
 }
